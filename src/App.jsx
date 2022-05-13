@@ -6,8 +6,9 @@ function App() {
   return (
     <div className='app'>
       <AutoSlide className="autoplay"/>
-      <Card className='card'/>
-      <Card className='card'/>
+      <div className="cardsection">
+        
+      </div>
 
     </div>
 
